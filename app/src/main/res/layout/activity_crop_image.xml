@@ -1,0 +1,50 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <ImageView
+        android:id="@+id/result_image"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:scaleType="centerInside"
+        android:background="@drawable/crop_texture" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        >
+        <Button
+            android:id="@+id/bCancel"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:maxWidth="200dp"
+            android:text="Cancel" />
+        
+        <Button
+            android:id="@+id/bRetake"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:maxWidth="200dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Retake" />
+
+        <Button
+            android:id="@+id/bDone"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:maxWidth="200dp"
+            android:text="Done" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
