@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/voris/Projects/voris/WS_Yara/CustomCam/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/voris/Projects/voris/WS_Yara/CustomCam/app/build/intermediates/pre-dexed/debug/classes-0b1fd58f42bd1368bb448b20ee927216c27e122e.jar" />
+    </item>
+    <item
+        jar="/home/voris/Projects/voris/WS_Yara/CustomCam/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/voris/Projects/voris/WS_Yara/CustomCam/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0f8902bb1a74238c248b21e52122d5e09eb74365.jar" />
+    </item>
+    <item
+        jar="/home/voris/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/voris/Projects/voris/WS_Yara/CustomCam/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ddd9b50ca30eecf283273693c18a7668e2e1a30a.jar" />
+    </item>
+    <item
+        jar="/home/voris/Projects/voris/WS_Yara/CustomCam/app/build/intermediates/exploded-aar/CustomCam/Crop/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c5719edfad8bf3a10f2664a5110d07d8a25a5150">
+        <dex dex="/home/voris/Projects/voris/WS_Yara/CustomCam/app/build/intermediates/pre-dexed/debug/classes-203c92538d371fca13da721351dcc65459398184.jar" />
+    </item>
+    <item
+        jar="/home/voris/Projects/voris/WS_Yara/CustomCam/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/voris/Projects/voris/WS_Yara/CustomCam/app/build/intermediates/pre-dexed/debug/classes-142fd9e08be4635da92aaa82ab860195717830cc.jar" />
+    </item>
+
+</items>
